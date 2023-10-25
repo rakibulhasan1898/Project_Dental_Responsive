@@ -1,0 +1,1184 @@
+
+/* 
+############  ###########
+    DEVICE - EXTRA EXTRA LARGE 
+############# ###########
+*/
+@media(min-width:1400px){
+    .doctor_img {
+        width: 50%;
+    }
+    .second-doctor {
+        width: 35%!important;
+    }
+    .service-margin {
+        margin-top: 1.4rem!important;
+    }
+    .service_section_doctor {
+        max-width: 40%;
+    }
+    .service_section_doctor img {
+        max-width: 100%;
+    }
+    .services_section {
+        min-height: 80vh;
+        align-items: center;
+        display: flex;
+    }
+    .signup_btn a {
+        padding: 11px 33px;
+    }
+    .contents p {
+         font-size: 18px;
+    }
+    .second-doctor-world h1 {
+        font-size: 60px!important;
+    }
+    .second-doctor-world h2 {
+        font-size: 22px!important;
+        letter-spacing: 1px;
+    }
+}
+
+
+
+
+/* 
+############  ###########
+    DEVICE - EXTRA LARGE 
+############# ###########
+*/
+@media(max-width:1399px){
+    .doctor_img {
+        width: 43%;
+    }
+    .second-doctor {
+        width: 30%!important;
+    }
+}
+
+
+
+/* 
+############  ###########
+    DEVICE - LARGE 
+############# ###########
+*/
+@media(max-width:1199px){
+    .contents h2 {
+        font-size: 20px;
+    }
+    .contents h1 {
+        font-size: 30px;
+    }
+    .contents p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .services-icon {
+        width: 12%;
+    }
+    .service-margin {
+        margin-top: 1.4rem!important;
+    }
+    .service-title h4 {
+        font-size: 20px;
+    }
+    .price_head h3 {
+        font-size: 24px;
+    }
+    .price_head p {
+        font-size: 14px;
+    }
+    .plan_price h1 {
+        font-size: 45px;
+    }
+    .plan_price p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .price_box .sign-up-btn a {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    .footer-logo {
+        width: 60%;
+    }
+    .company_info p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .footer_contact p {
+        font-size: 13px;
+    }
+    .footer_icon {
+        width: 7%;
+    }
+    .footer_contact {
+        margin-left: 13px;
+    }
+    .recent_img {
+        width: 30%;
+    }
+    .recent_post_info p {
+        font-size: 13px;
+    }
+    .recent_post_info span {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .signup_btn a {
+        padding: 11px 15px;
+    }
+    .title h2 {
+        font-size: 18px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+############  ###########
+    DEVICE - MEDIUM 
+############# ###########
+*/
+
+@media(max-width:991px){
+    .logo {
+        width: 100%;
+        min-height: 100%;
+        align-items: center;
+        display: flex;
+    }
+    .info h5 {
+        font-size: 15px;
+    }
+    .info p {
+        font-size: 11px;
+    }
+    .info {
+        margin-left: 6px;
+    }
+    .navbar>.container-fluid{
+        justify-content: center;
+        background: #00cce1;
+        padding: 0;
+    }
+    .nav-item {
+        text-align: center;
+        width: 20%;
+        margin: auto;
+        margin-top: 0;
+    }
+
+    .btn-appointment {
+        text-align: center;
+    }
+    .btn-appointment a {
+        clip-path: polygon(10% 0, 100% 0%, 90% 100%, 0% 100%)!important;
+    }
+    .btn-appointment a {
+        padding: 15px 30px !important;
+    }
+   .navbar-nav {
+        margin: 0!important;
+    }
+    .contents h2 {
+        font-size: 16px;
+    }
+    .contents h1 {
+        font-size: 25px;
+    }
+    .contents p {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 400;
+        margin-top: 5px;
+    }
+    .btn-learn, .btn-book {  
+        padding: 10px 24px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .second-doctor-world h2 {
+        font-size: 16px!important;
+    }
+    .second-doctor-world h1 {
+        font-size: 40px!important;
+    }
+    .second-doctor {
+        width: 34%;
+    }
+    .services-icon {
+        width: 15%;
+    }
+    .service_section_title h3 {
+        font-size: 23px;
+    }
+    .service_section_title p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .services_description h4 {
+        font-size: 18px;
+    }
+    .services_description p {
+        font-size: 13px;
+    }
+    .service-margin {
+        margin-top: 1.4rem!important;
+    }
+    .global-section-title p {
+        font-size: 14px;
+    }
+    .doctor_name p {
+        font-size: 14px;
+        text-transform: capitalize;
+    }
+    .price_head h3 {
+        font-size: 20px;
+    }
+    .price_head p {
+        font-size: 14px;
+    }
+    .plan_price h1 {
+        font-size: 40px;
+    }
+    .plan_price p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .plan_features p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .price_box .sign-up-btn a {
+        padding: 10px 20px;
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .brand_carousel .minimization img {
+        width: 80px!important;
+    }
+    .brand_carousel div img {
+        width: 80px!important;
+    }
+    .brand_carousel .owl-nav .owl-prev span, .brand_carousel .owl-nav .owl-next span {
+        width: 20px;
+    }
+
+    footer {
+        padding: 50px 0;
+    }
+    .footer_icon img {
+        width: 100%;
+    }
+    .footer_icon {
+        width: 4%;
+    }
+    .footer_contact {
+        margin-left: 20px;
+    }
+    .footer_contact p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .recent_img {
+        width: 12%;
+    }
+    .recent_post_info p {
+        font-size: 14px;
+    }
+    .recent_post_info span {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .footer_title {
+        text-align: center;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .recent_posts {
+        /* justify-content: center; */
+    }
+    .footer_contact_info {
+    }
+    .email_field {
+    }
+    .social_media_links {
+        width: 89%;
+        /* margin: auto; */
+        margin-top: 40px;
+    }
+    .footer_lastPart p {
+        font-size: 13px;
+    }
+    .input_field {
+        width: 77%;
+    }
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+############  ###########
+    DEVICE - SMALL 
+############# ###########
+*/
+@media(max-width:767px){
+    .logo {
+        width: 35%;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .info h5 {
+        font-size: 16px;
+    }
+    .info p {
+        font-size: 12px;
+    }
+    .navbar>.container-fluid{
+        justify-content: center;
+        background: #00cce1;
+        padding: 10px 0px;
+    }
+    .nav-item {
+        text-align: center;
+        width: 20%;
+        margin: auto;
+        margin-top: 5px;
+    }
+
+    .btn-appointment {
+        text-align: center;
+    }
+    .btn-appointment a {
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
+    }
+     
+    .contents {
+        text-align: center;
+        position: absolute;
+        top: 7%;
+    }
+    .doctor_img {
+       display: block;
+    }
+    .doctor_img {
+        left: 61%;
+        width: 67%;
+        transform: translateX(-50%);
+    }
+    .contents h2 {
+        font-size: 18px;
+    }
+    .contents h1 {
+        font-size: 30px;
+        padding: 5px 10px;
+    }
+    .contents p {
+        font-size: 13px;
+    }
+    .btn-learn, .btn-book {
+        margin-top: 18px;
+        font-size: 12px;
+    }
+    .banner_carousel .owl-dots {
+        left: 90%;
+    }
+    .second-doctor-world h1 {
+        font-size: 31px!important;
+    }
+    .second-doctor-world h2 {
+        font-size: 16px!important;
+    }
+    .second-doctor {
+        width: 54%!important;
+        left: 64%!important;
+        transform: translateX(-50%)!important;
+    }
+    .service_section_title h3 {
+        font-size: 24px;
+    }
+    .service_section_title p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+    .service-margin{
+    margin-top: 1rem!important;
+    }
+    .services_description h4 {
+        font-size: 20px;
+    }
+    .services_description p {
+        font-size: 12px;
+    }
+    .doctor_information {
+        width: 70%;
+        margin: auto;
+    }
+    .doctor_name p {
+        font-size: 14px;
+        text-transform: capitalize;
+    }
+    .global-section-title p {
+        font-size: 14px;
+    }
+    .service_box {
+        width: 70%;
+        margin: auto;
+    }
+    .service-head {
+        justify-content: center;
+    }
+    .item_box p {
+        line-height: 22px;
+        font-size: 14px;
+        text-align: center;
+    }
+    .item_box a {
+        display: block;
+        text-align: center;
+    }
+    .header_info {
+        margin-top: 15px;
+    }
+    
+    .price_box {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .price_head h3 {
+        font-size: 22px;
+    }
+    .plan_price h1 {
+        font-size: 40px;
+    }
+    .plan_price p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .plan_features p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .price_box .sign-up-btn a {
+        font-weight: 500;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .pricing_section {
+        padding: 50px 0;
+    }
+
+    .owl-carousel .owl-item img {
+        width: 60%!important;
+    }
+    .brand_carousel .owl-nav .owl-prev span {
+        width: 20px;
+        height: 50px;
+        background: #00cce1;
+        color: #fff;
+    }
+    .brand_carousel .owl-nav .owl-next span {
+        width: 20px;
+        height: 50px;
+        background: #f69165;
+       color: #fff;
+    }
+    .footer-logo {
+        width: 30%;
+        margin: auto;
+    }
+    .company_info p {
+        font-size: 13px;
+        font-weight: 400;
+        margin-top: 20px;
+        /* text-align: center; */
+    }
+    footer {
+        padding: 50px 0;
+    }
+    .footer_icon img {
+        width: 100%;
+    }
+    .footer_icon {
+        width: 4%;
+    }
+    .footer_contact {
+        margin-left: 20px;
+    }
+    .footer_contact p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .recent_post_info p {
+        font-size: 14px;
+    }
+    .recent_post_info span {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .footer_title {
+        text-align: center;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .recent_img {
+        width: 15%;
+    }
+    .recent_posts {
+        /* justify-content: center; */
+    }
+    .footer_contact_info {
+    }
+    .email_field {
+    }
+    .social_media_links {
+        width: 93%;
+        /* margin: auto; */
+        margin-top: 40px;
+    }
+    .footer_lastPart p {
+        font-size: 13px;
+    }
+    .input_field {
+        width: 77%;
+    }
+    .service_section_title {
+        text-align: center;
+    }
+    .services-icon {
+        width: 5%;
+        margin: auto;
+    }
+    .services_description {
+        text-align: center;
+    }
+    .service_section_doctor {
+        display: none;
+    }
+    .tooth-margin{
+
+    }
+    .service-margin{
+        margin-top: 1.4rem!important;
+    }
+    .services_description h4 {
+        font-size: 18px;
+        color: #000000c4;
+    }
+    .global-section-title p, .price_head p {
+        font-size: 14px;
+    } 
+    .services_section {
+        padding: 60px 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+############ ###########
+    DEVICE - EXTRA SMALL 
+############ ###########
+*/
+@media(max-width:575px){
+    .logo {
+        width: 30%;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    .header_info {
+        margin-top: 10px;
+    }
+    .info h5 {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 12px;
+    }
+    .info p {
+        color: #a0a0a0;
+        font-size: 12px;
+    }
+    .navbar>.container-fluid{
+        justify-content: center;
+        background: #00cce1;
+        padding: 10px 0px;
+    }
+    .nav-item {
+        margin-top: 5px;
+        text-align: center;
+    }
+
+    .btn-appointment {
+        text-align: center;
+    }
+    .btn-appointment a {
+    clip-path: polygon(10% 0, 100% 0%, 89% 100%, 0% 100%); 
+    
+}
+    .contents {
+        text-align: center;
+        position: absolute;
+        top: 7%;
+    }
+    .doctor_img {
+       display: block;
+    }
+    .doctor_img {
+        left: 60%;
+        width: 65%;
+        transform: translateX(-50%);
+    }
+    .contents h2 {
+        font-size: 18px;
+    }
+    .contents h1 {
+        font-size: 30px;
+        padding: 5px 10px;
+    }
+    .contents p {
+        font-size: 13px;
+    }
+    .btn-learn, .btn-book {
+        margin-top: 18px;
+        font-size: 12px;
+    }
+    .banner_carousel .owl-dots {
+        left: 90%;
+    }
+    .second-doctor-world h1 {
+        font-size: 31px!important;
+    }
+    .second-doctor-world h2 {
+        font-size: 16px!important;
+    }
+    .second-doctor {
+        width: 53%!important;
+        left: 60%!important;
+        transform: translateX(-50%)!important;
+    }
+    .btn-appointment a:hover {
+       clip-path: none
+    }
+    .service_section_title {
+        text-align: center;
+    }
+    .services-icon {
+        width: 5%;
+        margin: auto;
+    }
+    .services_description {
+        text-align: center;
+    }
+    .service_section_doctor {
+        display: none;
+    }
+    .tooth-margin{
+
+    }
+    .service-margin{
+        margin-top: 1.4rem!important;
+    }
+    .services_description h4 {
+        font-size: 18px;
+        color: #000000c4;
+    }
+    .global-section-title p, .price_head p {
+        font-size: 14px;
+    } 
+    .services_section {
+        padding: 60px 0;
+    }
+    .doctor_information {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .service_box {
+        width: 62%;
+        margin: auto;
+    }
+    .icon img {
+        width: 80%;
+    }
+    .service-title h4 {
+        color: #000000a3;
+        font-size: 20px;
+    }
+    .service-head {
+        justify-content: center;
+    }
+    .service-title {
+        margin-left: 10px;
+    }
+    .doctor_name h5 {
+        font-size: 22px;
+    }
+    .doctor_name p {
+        font-size: 14px;
+        text-transform: capitalize;
+    }
+
+
+    .item_box a {
+        font-size: 14px;
+        display: block;
+        text-align: center;
+    }
+    .item_box p {
+        text-align: center;
+        font-size: 14px;
+        line-height: 23px;
+    }
+    
+    .price_box {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .price_head h3 {
+        font-size: 22px;
+    }
+    .plan_price h1 {
+        font-size: 40px;
+    }
+    .plan_price p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .plan_features p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .price_box .sign-up-btn a {
+        font-weight: 500;
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .pricing_section {
+        padding: 50px 0;
+    }
+    .owl-carousel .owl-item img {
+        width: 60%!important;
+    }
+    .brand_carousel .owl-nav .owl-prev span {
+        width: 20px;
+        height: 50px;
+        background: #00cce1;
+        color: #fff;
+    }
+    .brand_carousel .owl-nav .owl-next span {
+        width: 20px;
+        height: 50px;
+        background: #f69165;
+       color: #fff;
+    }
+    .footer-logo {
+        width: 30%;
+        margin: auto;
+    }
+    .company_info p {
+        font-size: 13px;
+        font-weight: 400;
+        margin-top: 20px;
+        text-align: center;
+    }
+    footer {
+        padding: 50px 0;
+    }
+    .footer_icon img {
+        width: 100%;
+    }
+    .footer_icon {
+        width: 4%;
+    }
+    .footer_contact {
+        margin-left: 20px;
+    }
+    .footer_contact p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .recent_post_info p {
+        font-size: 14px;
+    }
+    .recent_post_info span {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .footer_title {
+        text-align: center;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .recent_posts {
+        justify-content: flex-start;
+        padding-left: 30px;
+    }
+    .footer_contact_info {
+        justify-content: flex-start;
+        padding-left: 30px;
+    }
+    .email_field {
+        justify-content: center;
+    }
+    .social_media_links {
+        width: 91%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .footer_lastPart p {
+        font-size: 13px;
+    }
+    .recent_img {
+        width: 15%;
+    }
+    .header_info {
+        margin-top: 11px;
+    }
+    
+}
+/* 
+############# ##############
+    DEVICE- MOBILE@498px 
+############# ##############
+*/
+@media(max-width:500px){
+    .info p {
+        font-size: 11px;
+    }
+}
+
+@media(max-width:450px){
+    .info p {
+        font-size: 10px;
+    }
+}
+@media(max-width:437px){
+    .info p {
+        font-size: 8px;
+    }
+    .doctor_img {
+        left: 64%;
+        width: 85%;
+    }
+    .second-doctor {
+        width: 73%!important;
+        left: 70%!important;
+    }
+}
+
+
+
+
+
+/* 
+############# ##############
+    DEVICE- MOBILE@414px 
+############# ##############
+*/
+@media(max-width:414px){
+    .logo {
+        width: 35%;
+    }
+    .info {
+        margin-left: 3px;
+    }
+    .info h5 {
+        font-size: 12px;
+    }
+    .info p {
+        font-size: 9px;
+    }
+    .icon {
+        width: 24px;
+    }
+    .icon i {
+        font-size: 14px;
+    }
+    .doctor_img {
+        left: 65%;
+        width: 85%;
+    }
+    .second-doctor {
+        width: 63%!important;
+        left: 63%!important;
+    }
+    .row.height {
+        min-height: 72vh;
+        align-items: center;
+    }
+    .contents h2 {
+        font-size: 14px;
+    }
+    .contents h1 {
+        font-size: 22px;
+    }
+    .global-section-title p, .price_head p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .service_box {
+        width: 80%;
+    }
+    .service-head {
+        justify-content: flex-start;
+    }
+    .item_box p {
+        text-align: left;
+    }
+    .item_box a {
+        text-align: left;
+    }
+    .price_box {
+        width: 80%;
+    }
+    .brand_carousel .owl-nav .owl-prev span,  .brand_carousel .owl-nav .owl-next span {
+        width: 8px;
+        height: 20px;
+        background: none;
+        color: #fff;
+    }
+    .doctor_information {
+        margin-bottom: 15px;
+    }
+    .signup_btn a {
+        padding: 11px 8px;
+    }
+    .social_media_links {
+        width: 96%;
+    }
+}
+
+
+
+
+
+
+
+
+/* 
+############# ##############
+    DEVICE- MOBILE@320PX 
+############# ##############
+*/
+@media(max-width:320px){
+    .logo {
+        width: 50%;
+    }
+    .icon i {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 9px;
+    }
+    .info h5 {
+        font-size: 11px;
+    }
+    .info {
+        margin-left: 0px;
+    }
+    .row.height {
+        min-height: 80vh;
+    }
+    .info {
+        margin-left: 3px;
+    }
+    .header_info {
+        margin-top: 6px;
+    }
+    .info h5 {
+        font-size: 10px;
+    }
+    .info p {
+        font-size: 6px;
+        font-weight: 400;
+    }
+    .logo {
+        width: 35%;
+    }
+    .navbar>.container-fluid {
+        padding: 5px 0px;
+    }
+    .contents h2 {
+        font-size: 14px;
+    }
+    .contents h1 {
+        font-size: 21px;
+        margin: 10px 0;
+    }
+    .contents p {
+        font-size: 11px;
+    }
+    .btn-learn, .btn-book {
+        margin-top: 18px;
+        font-size: 10px;
+    }
+    .doctor_img {
+        left: 71%;
+        width: 125%;
+    }
+    .second-doctor {
+        width: 95%!important;
+        left: 72%!important;
+    }
+    .services_section {
+        padding: 45px 0;
+    }
+    .service_section_title h3 {
+        font-size: 20px;
+    }
+    .service_section_title p {
+        font-size: 12px;
+    }
+    .services-icon {
+        width: 8%;
+    }
+    .services_description p {
+        font-size: 12px;
+    }
+    .global-section-title p, .price_head p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .global-section-title h3 {
+        font-size: 26px;
+    }
+    .doctor_information {
+        width: 60%;
+        margin-bottom: 20px;
+    }
+    .doctor_name h5 {
+        font-size: 17px;
+    }
+    .doctor_name p {
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+    .service_box {
+        width: 90%;
+        margin: auto;
+    }
+    .icon img {
+        width: 90%;
+    }
+    .service-head {
+        justify-content: start;
+    }
+    .service-title h4 {
+        font-size: 18px;
+    }
+    .item_box p {
+        text-align: left;
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .item_box a {
+        font-size: 13px;
+        margin-top: 13px;
+    }
+    .price_box {
+        width: 90%;
+    }
+    .price_head h3 {
+        font-size: 20px;
+    }
+    .plan_features p {
+        font-size: 12px;
+    }
+    .plan_price h1 {
+        font-size: 40px;
+    }
+    .plan_price p {
+        font-size: 12px;
+    }
+    .price_box .sign-up-btn a {
+        font-size: 12px;
+    }
+    .brand_carousel .owl-nav .owl-prev span,  .brand_carousel .owl-nav .owl-next span {
+        width: 8px;
+        height: 20px;
+        background: none;
+        color: #fff;
+    }
+    .footer-logo {
+        width: 45%;
+    }
+    .footer_contact p {
+        font-size: 12px;
+    }
+    .footer_contact_info {
+        justify-content: flex-start;
+    }
+    .recent_post_info {
+        margin-left: 19px;
+    }
+    .recent_post_info p {
+        font-size: 12px;
+    }
+    .recent_post_info span {
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .signup_btn a {
+        padding: 13px 9px;
+        font-size: 12px;
+    }
+    .social_media ul li {
+        width: 20px;
+        height: 20px;
+    }
+    .social_media ul li a {
+        font-size: 12px;
+    }
+    .social_media_links {
+        width: 97%;
+    }
+    .doctor_information {
+        margin-bottom: 15px;
+    }
+    
+}
